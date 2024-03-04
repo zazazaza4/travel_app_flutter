@@ -1,16 +1,9 @@
-# travel_app
+## Опис проекту: 
+"Радник з подорожей" — це мобільний додаток, створений для полегшення подорожей та відкриття нових місць. Додаток допомагає користувачам знаходити та вивчати цікаві локації, забезпечуючи зручний інтерфейс для пошуку та відображення різних місць. Завдяки використанню сучасних технологій та інтерфейсу, користувачі можуть з легкістю планувати та насолоджуватися своїми подорожами.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Використані технології:
+- TripAdvisor: надає API, яке може бути використано для отримання відгуків, оцінок та інформації про готелі та ресторани.
+- Google Places API: Google Places API дозволяє користувачам шукати місця, отримувати деталі та іншу інформацію про різні локації.
+- Animate_do: Пакет "animate_do" використовується для реалізації плавних та привабливих анімацій у додатку.
+- Get: Пакет "get" використовується для управління станом додатку та створення ефективного коду.
+- Flutter: є основним фреймворком для розробки мобільного додатку. Використовується для створення крос-платформених додатків з єдиною кодовою базою
