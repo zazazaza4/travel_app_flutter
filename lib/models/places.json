@@ -1,0 +1,230 @@
+{
+  "data": [
+    {
+      "location_id": "315614",
+      "name": "Cosy Beach Hotel",
+      "latitude": "12.921432",
+      "longitude": "100.85973",
+      "num_reviews": "678",
+      "timezone": "Asia/Bangkok",
+      "location_string": "Pattaya, Chonburi Province",
+      "photo": {
+        "images": {
+          "small": {
+            "width": "250",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-f/09/b6/1c/4d/cosy-beach-hotel.jpg",
+            "height": "141"
+          },
+          "thumbnail": {
+            "width": "50",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-t/09/b6/1c/4d/cosy-beach-hotel.jpg",
+            "height": "50"
+          },
+          "original": {
+            "width": "2000",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-o/09/b6/1c/4d/cosy-beach-hotel.jpg",
+            "height": "1125"
+          },
+          "large": {
+            "width": "1024",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-w/09/b6/1c/4d/cosy-beach-hotel.jpg",
+            "height": "576"
+          },
+          "medium": {
+            "width": "550",
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/09/b6/1c/4d/cosy-beach-hotel.jpg",
+            "height": "309"
+          }
+        },
+        "is_blessed": true,
+        "uploaded_date": "2015-12-09T10:57:54-0500",
+        "caption": "Вид на бассейны",
+        "id": "162929741",
+        "helpful_votes": "28",
+        "published_date": "2015-12-09T10:57:54-0500",
+        "user": {
+          "user_id": null,
+          "member_id": "0",
+          "type": "user"
+        }
+      },
+      "awards": [
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2018",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2018"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2017",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2017"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2016",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2016"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2015",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2015"
+        },
+        {
+          "award_type": "CERTIFICATE_OF_EXCELLENCE",
+          "year": "2014",
+          "images": {
+            "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+            "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+          },
+          "categories": [],
+          "display_name": "Certificate of Excellence 2014"
+        }
+      ],
+      "preferred_map_engine": "default",
+      "autobroaden_type": "category_integrated",
+      "autobroaden_label": "Pattaya Places to Stay",
+      "raw_ranking": "3.9883522987365723",
+      "ranking_geo": "Pattaya",
+      "ranking_geo_id": "293919",
+      "ranking_position": "1",
+      "ranking_denominator": "2936",
+      "ranking_category": "hotel",
+      "ranking": "#1 Best Value of 2,936 places to stay in Pattaya",
+      "subcategory_type": "hotel",
+      "subcategory_type_label": "Hotel",
+      "distance": "1.3720975301192728",
+      "distance_string": null,
+      "bearing": "northwest",
+      "rating": "4.0",
+      "is_closed": false,
+      "is_long_closed": false,
+      "price_level": "$",
+      "price": "$50 - $71",
+      "hac_offers": {
+        "availability": "unconfirmed",
+        "offers": [
+          {
+            "content_id": "115841989",
+            "provider_display_name": "eDreams",
+            "internal_provider_name": "BookingeDreamsWL",
+            "logo": "https://static.tacdn.com/img2/branding/hotels/ed_16852.png",
+            "treatment": "none",
+            "is_bookable": false,
+            "availability": "pending",
+            "display_style": "text_link",
+            "link": "https://www.tripadvisor.com/Commerce?p=BookingeDreamsWL&src=115841989&geo=315614&from=HotelDateSearch_api&slot=1&matchID=1&oos=0&cnt=7&silo=35404&bucket=914257&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=224933717&managed=true&capped=false&gosox=Pw2Q4f4EV39ARAVN1j7qA-wVoP31F_6i3EwPdciX44UFgGKzgMoFZCit4jBeEN4YyH7OVhRVYtEejs3tbG6zMRocWto7JxucG3RW5y51nO40jOaa0mN_TBgZN0p8pcwEK0s8WdLXWdkNue-ZQc0fy92ZfJ3pFaF3omXMJ4rCclkpvo2vY56c3W_BUbaBUB5P&pm=BR&hac=INITIALIZED&adults=1&child_rm_ages=7,10&inDay=8&outDay=10&rooms=1&inMonth=3&inYear=2022&outMonth=3&outYear=2022&auid=dd0bbfc6-fb03-4c81-8680-d78b2b35c246&def_d=true&bld=L_2,D_20,G_3,W_2,U_1,C_220308,T_9&bh=true&cs=10b44e99051cb39561a7dd186e5144b62&area=QC_META_API&ik=cc8e1f8244d84fd9887cb1165c4b6c3f&drs=mobileapp&drv=77&dated=true&aok=3f53ea95f1aa42c99a24a0a79960b5d6&tp=MobileHotelSearch",
+            "auction_offer_key": "3f53ea95f1aa42c99a24a0a79960b5d6"
+          },
+          {
+            "content_id": "115363472",
+            "provider_display_name": "Booking.com",
+            "internal_provider_name": "BookingCom",
+            "logo": "https://static.tacdn.com/img2/branding/hotels/booking%20logo.png",
+            "treatment": "co_branded",
+            "is_bookable": false,
+            "availability": "pending",
+            "display_style": "text_link",
+            "link": "https://www.tripadvisor.com/Commerce?p=BookingCom&src=115363472&geo=315614&from=HotelDateSearch_api&slot=2&matchID=1&oos=0&cnt=7&silo=10500&bucket=917368&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=224933717&managed=false&capped=false&gosox=rNdaiMGVvDWdI9Gh3qChu93Wo38QRCJ77NhHvbLl20xZOBCxCy26lQ22fx1oBCDYEj_5TuQv9mW6OcAJ2J6Ko7tcb_gI2f8optWiYIS2kP2q2RL9fv4e82GmMop8OE2DRVuemWjX6sgmd-kPB0wPrRdHKwzfjxkzzV2uHvbx56kBKli6rw7N1MwfdqFcOjou2Hzr5sMnM7Rg7cjwf_Cs1c_APEeqlMxALg5BrHRlmhqbyLAiugRHQZXbWbnICtO5&pm=BR&hac=INITIALIZED&adults=1&child_rm_ages=7,10&inDay=8&outDay=10&rooms=1&inMonth=3&inYear=2022&outMonth=3&outYear=2022&auid=dd0bbfc6-fb03-4c81-8680-d78b2b35c246&def_d=true&bld=L_2,D_20,G_3,W_2,U_1,C_220308,T_9&bh=true&cs=1b06c600f2915a35d3dbd2df45a238a04&area=QC_META_API&ik=cc8e1f8244d84fd9887cb1165c4b6c3f&drs=mobileapp&drv=77&dated=true&aok=85d68fc72d904c51bf97dd358f1262fb&tp=MobileHotelSearch",
+            "auction_offer_key": "85d68fc72d904c51bf97dd358f1262fb"
+          },
+          {
+            "content_id": "174628136",
+            "provider_display_name": "FindHotel",
+            "internal_provider_name": "FindHotel",
+            "logo": "https://static.tacdn.com/img2/branding/hotels/FindHotel.png",
+            "treatment": "none",
+            "is_bookable": false,
+            "availability": "pending",
+            "display_style": "text_link",
+            "link": "https://www.tripadvisor.com/Commerce?p=FindHotel&src=174628136&geo=315614&from=HotelDateSearch_api&slot=3&matchID=1&oos=0&cnt=7&silo=33308&bucket=894612&nrank=3&crank=3&clt=M&ttype=MobileCR&tm=224933717&managed=false&capped=false&gosox=HdmJAVt640HeB-PjjXjeHOk53qxIymn-7rSJTV_aVf0WebtvvS2ijBXvrVkBkQIiq8oDEaymgNpj7_WLwJuOUpLbh1NVHuH6C3RYRUtkF2yB1Q84QLG9qImw5eBlT6GZfJMRni2Dk8OerJncRq5nzaVE6x-ygLI-eSjK_wDD73dJ87z65zq8gJVcOe14jcBLjnDMw2WS1q80p60t96b2TidfdSWpBtOQ_3FGVhr8HCMVfgBEp-ifya8A_KQauspw&pm=BR&hac=INITIALIZED&adults=1&child_rm_ages=7,10&inDay=8&outDay=10&rooms=1&inMonth=3&inYear=2022&outMonth=3&outYear=2022&auid=dd0bbfc6-fb03-4c81-8680-d78b2b35c246&def_d=true&bld=L_2,D_20,G_3,W_2,U_1,C_220308,T_9&bh=true&cs=1eb89d3885abd96febe610ec52d466412&area=QC_META_API&ik=cc8e1f8244d84fd9887cb1165c4b6c3f&drs=mobileapp&drv=77&dated=true&aok=7a589fdfc00b469c97079ffcc1827a41&tp=MobileHotelSearch",
+            "auction_offer_key": "7a589fdfc00b469c97079ffcc1827a41"
+          },
+          {
+            "content_id": "114173793",
+            "provider_display_name": "ZenHotels.com",
+            "internal_provider_name": "ZenHotels",
+            "logo": "https://static.tacdn.com/img2/branding/hotels/zenlogo.png",
+            "treatment": "none",
+            "is_bookable": false,
+            "availability": "pending",
+            "display_style": "text_hidden",
+            "link": "https://www.tripadvisor.com/Commerce?p=ZenHotels&src=114173793&geo=315614&from=HotelDateSearch_api&slot=4&matchID=1&oos=0&cnt=7&silo=24521&bucket=901414&nrank=4&crank=4&clt=M&ttype=MobileCR&tm=224933717&managed=true&capped=false&gosox=I8tRyV2-fuSKFWnaokQsXU4NophVsCPRj0jfrbK4NJyRhNpDa8NriBluPFj7ID4e0J6uF8zNPFmZ6VaXXLO65MsQZIjByfcHpaO4NEoo20m0NFSmGSUWNoqUsKSZaylhXKSWJi9cCxnQXhc3wYnVtuKbKHfw24xRsGZfp8pI-CSANCtkkAFeJ17fslJYM53A&pm=BR&hac=INITIALIZED&adults=1&child_rm_ages=7,10&inDay=8&outDay=10&rooms=1&inMonth=3&inYear=2022&outMonth=3&outYear=2022&auid=dd0bbfc6-fb03-4c81-8680-d78b2b35c246&def_d=true&bld=L_2,D_20,G_3,W_2,U_1,C_220308,T_9&bh=true&cs=10630ce0381a3e702f153ee0cbd70d424&area=QC_META_API&ik=cc8e1f8244d84fd9887cb1165c4b6c3f&drs=mobileapp&drv=77&dated=true&aok=e59f70da67f2423c81b8854905c27456&tp=MobileHotelSearch",
+            "auction_offer_key": "e59f70da67f2423c81b8854905c27456"
+          },
+          {
+            "content_id": "116885976",
+            "provider_display_name": "Priceline",
+            "internal_provider_name": "Priceline",
+            "logo": "https://static.tacdn.com/img2/branding/hotels/pcln-logo-384x164.png",
+            "treatment": "none",
+            "is_bookable": false,
+            "availability": "pending",
+            "display_style": "text_hidden",
+            "link": "https://www.tripadvisor.com/Commerce?p=Priceline&src=116885976&geo=315614&from=HotelDateSearch_api&slot=5&matchID=1&oos=0&cnt=7&silo=17377&bucket=895478&nrank=5&crank=5&clt=M&ttype=MobileCR&tm=224933717&managed=false&capped=false&gosox=cxdUyp4A-9939USQyT4b6jKsnVX4N_6fDFTGUUKvuoFqD2yTgPIxgcZM1CuSzoufNo7NmV-LyMCOghLNmzY-Ke77oHaIqjDWwwEB4hXOufqC7Zzx0hYT5p5Y7CLj7O_ncy6DyJVPPta8CdCU1nqZN6JtEZbj_bSpd7Yb_sr5R-uEQ-Fgvl_faLAO9HLHDGv2CQaRwVupbgq2JnhsKM4_AGhd4EjDM6wYxd7kNJAb3vUqv-okRLPMAM_8rDYg9eKCe2UFwHhuMsZnq9DXvlLa1Q&pm=BR&hac=INITIALIZED&adults=1&child_rm_ages=7,10&inDay=8&outDay=10&rooms=1&inMonth=3&inYear=2022&outMonth=3&outYear=2022&auid=dd0bbfc6-fb03-4c81-8680-d78b2b35c246&def_d=true&bld=L_2,D_20,G_3,W_2,U_1,C_220308,T_9&bh=true&cs=113af084774cbd6653ae3b728c3a7ed86&area=QC_META_API&ik=cc8e1f8244d84fd9887cb1165c4b6c3f&drs=mobileapp&drv=77&dated=true&aok=ebc20add5d0240a09e9aacc1a36e82f1&tp=MobileHotelSearch",
+            "auction_offer_key": "ebc20add5d0240a09e9aacc1a36e82f1"
+          },
+          {
+            "content_id": "148101822",
+            "provider_display_name": "StayForLong",
+            "internal_provider_name": "StayForLong",
+            "logo": "https://static.tacdn.com/img2/branding/hotels/logo-sfl-pink-tripadvisor.png",
+            "treatment": "none",
+            "is_bookable": false,
+            "availability": "unconfirmed",
+            "display_style": "text_hidden",
+            "link": "https://www.tripadvisor.com/Commerce?p=StayForLong&src=148101822&geo=315614&from=HotelDateSearch_api&slot=6&matchID=1&oos=0&cnt=7&silo=40511&bucket=944068&nrank=6&crank=6&clt=M&ttype=MobileCR&tm=224933717&managed=false&capped=false&gosox=NoxTACWiV5QORaFgkz_dAA8AHWO9YS3dapo7iNJI32AlR8e2liSbJmdhJuN1SSrQ-cIGtT5oLIctgqFaX_nzc7B1lqZdP9KM172zSaWXD1Yy_89NuiqG8Q6IJGMJD0OJRVuemWjX6sgmd-kPB0wPrcRu0WWwsXRHckTZBAqJrg-MrVE34Yp-HkUQiYEQ7dbyBco3Zo_Uzo-ryf03OsHD2dWuJHKe9hqA09Fvpxl9P4MFvYV-u5tcAn3Q4MF9gU9U&pm=BR&hac=SKIPPED&adults=1&child_rm_ages=7,10&inDay=8&outDay=10&rooms=1&inMonth=3&inYear=2022&outMonth=3&outYear=2022&auid=dd0bbfc6-fb03-4c81-8680-d78b2b35c246&def_d=true&bld=L_2,D_20,G_3,W_2,U_1,C_220308,T_9&bh=true&cs=16d0d69e7c8c1c5760cc5d3d35cbc7bf4&area=QC_META_API&ik=cc8e1f8244d84fd9887cb1165c4b6c3f&drs=mobileapp&drv=77&dated=true&aok=d435788094694eddb4cb96d0fb3a04b0&tp=MobileHotelSearch",
+            "auction_offer_key": "d435788094694eddb4cb96d0fb3a04b0"
+          },
+          {
+            "content_id": "218655540",
+            "provider_display_name": "Etrip",
+            "internal_provider_name": "Etrip",
+            "logo": "https://static.tacdn.com/img2/branding/hotels/etrip.png",
+            "treatment": "none",
+            "is_bookable": false,
+            "availability": "unconfirmed",
+            "display_style": "text_hidden",
+            "link": "https://www.tripadvisor.com/Commerce?p=Etrip&src=218655540&geo=315614&from=HotelDateSearch_api&slot=7&matchID=1&oos=0&cnt=7&silo=44763&bucket=973098&nrank=7&crank=7&clt=M&ttype=MobileCR&tm=224933717&managed=false&capped=false&gosox=C95WfuvdrSv_8mIhvgHx_Ug554IzBeMRzScVt7xnZB-wzKnPJNoMkh6WoLmZK1I4l1BMJCrgqxrs-GIniPHOVWkpiJlwxq08g-QQxiVaMtSW6BQDjtLc0bPA8Z9fL-SeYjFj1KozGVwmbUclUCYW-PNIeW4u-BAytRGK3lZ-Fqbryym5UyxzG2QMqBbdhzwT0kYi9OE_mSOCltlsAuI8HsZ7uibtsfrAc65ru44pHMRbgGcPWoPb8XCUBI307nuR&pm=BR&hac=SKIPPED&adults=1&child_rm_ages=7,10&inDay=8&outDay=10&rooms=1&inMonth=3&inYear=2022&outMonth=3&outYear=2022&auid=dd0bbfc6-fb03-4c81-8680-d78b2b35c246&def_d=true&bld=L_2,D_20,G_3,W_2,U_1,C_220308,T_9&bh=true&cs=1e6cd3984ce48a21d28fbc744b4de5162&area=QC_META_API&ik=cc8e1f8244d84fd9887cb1165c4b6c3f&drs=mobileapp&drv=77&dated=true&aok=4cbd7df8a56c4f40aac3468aaca99d9d&tp=MobileHotelSearch",
+            "auction_offer_key": "4cbd7df8a56c4f40aac3468aaca99d9d"
+          }
+        ],
+        "all_booking_offers": []
+      },
+      "hotel_class": "3.0",
+      "hotel_class_attribution": "This property is classified according to Giata.",
+      "business_listings": {
+        "desktop_contacts": [],
+        "mobile_contacts": []
+      },
+      "special_offers": {
+        "desktop": [],
+        "mobile": []
+      },
+      "listing_key": "660de5ea-5a42-49cd-9902-d8ac8baf1868"
+    }
+  ],
+  "paging": {
+    "results": "19",
+    "total_results": "19"
+  }
+}
